@@ -4,7 +4,6 @@ Machine Learning project to predict customer payment propensity for collections 
 
 ## Project Structure
 
-- data/ → raw datasets
 - notebooks/ → experimentation notebooks
 - outputs/ → charts and evaluation outputs
 - models/ → saved trained models
